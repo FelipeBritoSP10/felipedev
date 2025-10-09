@@ -1,8 +1,9 @@
 # Portfólio - Felipe Brito
 
 ## Sobre o Projeto
-Este projeto é um **Portfólio Online** desenvolvido em **HTML, CSS, JavaScript, React (componentes futuros), Bootstrap, Tailwind CSS**, com integração de ícones via **Font Awesome**.  
-O objetivo é apresentar informações sobre **minha trajetória profissional, habilidades, contatos e redes sociais**, de forma responsiva e acessível.
+Este projeto é um **Portfólio Online** desenvolvido como trabalho para a faculdade, com o objetivo de apresentar minha trajetória profissional, habilidades técnicas e formas de contato.
+
+O **site** foi construído utilizando HTML, CSS, W3.CSS além da integração de ícones via Font Awesome, garantindo um design moderno, responsivo e acessível.
 
 ## Estrutura do Site
 O site está dividido em três seções principais:
@@ -28,8 +29,6 @@ O site está dividido em três seções principais:
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap
-- Tailwind CSS
 - W3.CSS
 - Font Awesome
 - Git & GitHub
