@@ -37,3 +37,9 @@ O site está dividido em três seções principais:
 1. Clone o repositório:
 ```bash
 git clone https://github.com/FelipeBritoSP10/portfolio.git
+```
+
+## Site Online
+
+Você pode acessar meu portfólio diretamente online: [Acesse meu Portfólio](https://felipebritosp10.github.io/felipedev/)
+
